@@ -13,7 +13,7 @@ using unicast DNS. A Discovery Proxy [RFC 8766] enables automatic population of 
 namespace with services it learns via mDNS.
 
 With these building blocks it is now possible for clients to discover services using unicast DNS alone.
-Service discovery can be extended across a wide area network, going beyong directly connected links.
+Service discovery can be extended across a wide area network, going beyond directly connected links.
 
 The scenarios in which multi-link service discovery is required may be zero configuration environments,
 environments where administrative configuration is supported, or a mixture of the two.
