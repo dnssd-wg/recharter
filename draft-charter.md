@@ -34,7 +34,7 @@ deployments.
 
 To that end, the DNSSD WG will work on:
 
-Standard-track documents
+Standards-track documents
 
 * Define how to publish SRP-registered names in Multicast DNS, so the services can be discovered by mDNS clients.
 * Define mechanisms that improve the efficiency, availability and effectiveness of DNS-SD.
