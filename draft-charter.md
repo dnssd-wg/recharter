@@ -37,7 +37,7 @@ To that end, the DNSSD WG will work on:
 Standards-track documents
 
 * Define how to publish SRP-registered names in Multicast DNS, so the services can be discovered by mDNS clients.
-* Define mechanisms that improve the efficiency, availability and effectiveness of DNS-SD.
+* Define mechanisms that improve the efficiency, availability and effectiveness of DNS-SD or mDNS.
 * Define how to resolve or avoid conflicts between competing updates for the same name.
 
 Informational documents
